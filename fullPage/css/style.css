@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+body {
+    margin: 0;
+}
+
+.section {
+    text-align: center;
+    font-size: 2em;
+}
+
+.fp-tableCell {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#marx img {
+    margin: 20px;
+    height: 300px;
+    width: 300px;
+}
+
